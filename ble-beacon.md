@@ -1,6 +1,6 @@
 # BLE Beacon
 
-We gaan een BLE Beacon maken dat de temperatuur adverteert. Hiervoor gebruiken de we (XIAO BLE)[https://wiki.seeedstudio.com/XIAO_BLE/] module zodat de Nordic module als sniffer kan blijven dienen. (De XIAO BLE kan ook als sniffer geprogrameerd worden, helaas overschrijft dat de bootloader en is het daarna onmogelijk nieuwe software op de module te zetten zonder JLink programmer.)
+We gaan een BLE Beacon maken dat de temperatuur adverteert. Hiervoor gebruiken de we [XIAO BLE](https://wiki.seeedstudio.com/XIAO_BLE/) module zodat de Nordic module als sniffer kan blijven dienen. (De XIAO BLE kan ook als sniffer geprogrameerd worden, helaas overschrijft dat de bootloader en is het daarna niet mogelijk nieuwe software op de module te zetten zonder JLink programmer.)
 
 ## XIAO BLE module voorbereiden
 
