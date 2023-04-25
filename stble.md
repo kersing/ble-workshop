@@ -73,16 +73,11 @@ Als je nu de module selecteert krijg je een scherm met led. Tik die aan en kijk 
 
 Kies 'Devices' links boven terwijl de led brand. Laat de App opnieuw scannen en open je module opnieuw. Wat is nu de status van de led in de App? En wat op de module?
 
-Je ziet dat de App niet de werkelijke status opvraagt bij het maken van de verbinding. Dat zou een mogelijke verbetering zijn. En het is je vast opgevallen dat je zomaar verbinding kunt maken zonder een PIN of iets dergelijks in te voeren. Dat komt omdat de applicatie willekeurige verbindingen accepteerd. Ook dat zou verbeterd kunnen worden.
+Je ziet dat de App niet de werkelijke status opvraagt bij het maken van de verbinding. Dat zou een mogelijke verbetering zijn. En het is je vast opgevallen dat je zomaar verbinding kunt maken zonder een PIN of iets dergelijks in te voeren. Dat komt omdat de applicatie willekeurige verbindingen accepteerd. Ook dat zou verbeterd kunnen worden. (Zie [bonus](bonus.md) voor een oplossing.)
 
 Reset nu het bord (enkele reset), zodat de led uit gaat maar de BLE applicatie blijft draaien.
 
 Nu een leuke uitdaging, probeer met Wireshark de advertisements van je device te vinden. Zet dan een filter zodat je alleen data van dat MAC adres ziet (de dropdown achter 'Device' helpt vast). Open dan de App op je telefoon, zoek je device, verbind er mee en zet de led aan.
 
-Probeer met de data die je nu hebt uit te vinden hoe je met de nRF Connect applicatie of telefoon App de led aan en uit kunt zetten.
+Probeer met de gegevens die je nu hebt uit te vinden hoe je met de nRF Connect applicatie of telefoon App de led aan en uit kunt zetten.
 
-## The End
-
-Als deze workshop je nieuwsgierigheid aangewakkerd heeft kan ik het boek "Develop your own Bluetooth Low Energy Applications" van Koen Vervloesem aanbevelen. 
-
-Voor je nu dollar tekens (of euros) in de ogen krijgt, bedenk dat je geen devices op de markt mag brengen zonder die te laten testen door een officieel instituut en te registreren bij de Bluetooth SIG (beide tegen niet geringe vergoeding).

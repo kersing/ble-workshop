@@ -4,7 +4,7 @@ Voor op de mobiele telefoon (iOS en Android) zijn er enkele applicaties die we g
 
 ## nRF Connect for Mobile
 
-Ga naar de (Nordic website)[https://www.nordicsemi.com/Products/Development-tools/nRF-connect-for-mobile] en klik op de link naar de store voor jouw mobiele device.
+Ga naar de [Nordic website](https://www.nordicsemi.com/Products/Development-tools/nRF-connect-for-mobile) en klik op de link naar de store voor jouw mobiele device.
 
 ## ST BLE Sensor APP
 
