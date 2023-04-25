@@ -38,6 +38,8 @@ Nu kun je bouwen en flashen.
 Als de beveiligde versie van de software loopt, start dan nRF explorer en connect met je module. Geef met opzet een foute code op.
 Je zult nu zien dat je toch de tabel met attributen kun zien. Deze is niet beveiligd en altijd op te vragen.
 
-Probeer nu een om de volgende characteristic te schrijven (druk op het pijlte omhoog, vul een waarde in, bijvoorbeeld 11, en verzend die). Gebeurt er wat op de module?
+Probeer nu een om de onderstaande characteristic te schrijven (druk op het pijlte omhoog, vul een waarde in, bijvoorbeeld 11, en verzend die). Gebeurt er wat op de module?
+
+![](pics/nrf-attr.jpg)
 
 Verbreek de verbinding en 'connect' opnieuw. Geef nu wel de correcte code op en probeer dan nogmaals de waarde te schrijven. Kun je uitleggen waarom er nu (als het goed is) wel wat gebeurd? En welke regel in de code dat veroorzaakt?
